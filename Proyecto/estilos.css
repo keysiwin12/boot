@@ -30,7 +30,7 @@ footer a {
 
 
 
-#carouselExampleControls{
+#slider{
     position: relative;
 }
 #slider img {
@@ -47,8 +47,22 @@ footer a {
     background-color: rgb(0, 0,0, 0.5);
 }
 
-#slider .tam {
+#slider .caja {
     height: 70vh;
+}
+
+.oradores .card {
+   
+    
+}
+
+.honolulu img {
+    height: 50vh;
+}
+
+.honolulu {
+    color : white;
+    font-size: 23px;
 }
 
 
